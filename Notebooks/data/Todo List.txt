@@ -1,0 +1,10 @@
+keyword extraction:
+to fill na values for keyword column
+
+https://www.google.com/search?q=keyword+extraction+python&oq=keyword+extraction+python&aqs=chrome..69i57j0i66l5.466984j1j6&sourceid=chrome&ie=UTF-8
+
+
+
+https://monkeylearn.com/keyword-extraction/
+
+https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0
